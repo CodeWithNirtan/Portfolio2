@@ -52,12 +52,7 @@
     --bs-body-bg: #fff;
   }
 
-body {
-  
-    margin: 0;
-    padding: 0;
-    background-color:  rgba(var(--bs-primary-rgb), var(--bs-bg-opacity)) !important;
-}
+
 .menu-nav {
     background: #9140E9;
     padding: 10px;
